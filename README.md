@@ -1,4 +1,4 @@
-🎨 Logo Design Portfolio – README
+🎨 Logo Design Portfolio 
 📌 Overview
 
 This portfolio showcases a curated selection of logo designs created for various clients, concepts, and experimental projects. Each logo reflects a balance between visual identity, brand storytelling, and modern design principles.
